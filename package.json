@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-signature",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fulll/nodejs-libs",
+    "directory": "packages/insomnia-plugin-hmac-signature"
+  },
+  "insomnia": {
+    "name": "signature-fulll",
+    "description": "signature generation for fulll"
+  },
+  "dependencies": {
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "exit 0",
+    "test": "exit 0"
+  }
+}
