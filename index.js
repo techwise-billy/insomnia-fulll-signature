@@ -17,7 +17,7 @@ const generateKeyPairSignature = (apiKey, apiSecret, expireTime) => {
 module.exports.templateTags = [
   {
     name: 'signature_fulll',
-    displayName: 'Sinature-FULLL',
+    displayName: 'Signature-FULLL',
     description: 'Apply signature for datahub',
     args: [
       {
